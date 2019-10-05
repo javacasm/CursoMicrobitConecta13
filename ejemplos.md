@@ -5,3 +5,6 @@
 ## Odómetro https://juegosrobotica.es/retos/reto-54/
 
 ## Sistema de riego https://www.youtube.com/watch?v=S8NppVT_paw
+
+## Cuenta pasos
+https://www.instructables.com/id/Microbit-Based-Step-Counter/
