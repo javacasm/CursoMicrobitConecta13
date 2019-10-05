@@ -3,11 +3,12 @@
 * qué es micro:bit?
   orígenes
 * ¿para qué sirve?
-* características
-
+* características 
+    * hardware
+    * comparación con Arduino
 * ¿cómo la podemos programar?
    lenguajes y entornos
-* características hardware
+
 * ejemplos sencillos
   dado
   sensor temperatura
