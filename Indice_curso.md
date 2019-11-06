@@ -1,6 +1,6 @@
 # Robótica con micro:bit
 
-Este curso nos va permitir conocer y utilizar una herramienta novedosa como es micro:bit para incorporarla al aula la programación y la robótica. 
+Este curso nos va permitir conocer y utilizar una herramienta novedosa como es micro:bit para incorporar al aula la programación y la robótica. 
 
 Aprenderemos a trabajar con robots y a usar la placa micro:bit dentro del aula, además de familiarizarse con un primer lenguaje de programación de fácil uso a través de bloques gráficos.
 
