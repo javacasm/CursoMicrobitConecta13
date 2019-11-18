@@ -1,5 +1,7 @@
 ## Básico
 
+Curso sencillo y básico que arranca desde 0 y orientado a profesores de asignaturas no tecnológicas en las que micro:bit y la robótica se usan de un modo transversal y como un recurso más
+
 45 horas (2 meses)
 
 * Introducción
