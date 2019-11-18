@@ -1,5 +1,10 @@
 ## Avanzado
 
+
+Curso Avanzado de uso de microbit, orientado a usuarios con conocimientos básicos de programación y robótica. 
+
+Está pensado para aportar conocimientos a asignaturas más tecnológicas
+
 45 horas (2 meses)
 
 * Introducción
