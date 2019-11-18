@@ -1,38 +1,30 @@
 # Curso micro:bit Conecta13
 
+José Antonio Vacas @javacasm
+
+![Licencia CC](./images/Licencia_CC_grande.png)
 
 ## https://github.com/javacasm/CursoMicrobitConecta13
 
-## Ejemplos de proyectos
+## [Ejemplos](./ejemplos.md)
 
-### Frutas/piano
+Se trata de ejemplos para asignaturas distintas de la de Tecnología
 
-![frutas](https://cloudblogs.microsoft.com/industry-blog/wp-content/uploads/industry/sites/22/2016/11/microbit6.jpg)
+## [Proyectos](./proyectos.md)
 
-![+ frutas](https://i.pinimg.com/originals/e0/fa/da/e0fadaac0e20ac2205c3faf982a79760.jpg)
+Proyecto desarrollados donde usar micro:bit
 
-### Comunicaciones/sociales/IOT
+## Cursos
 
-![iot](https://core-electronics.com.au/media/kbase/social-no-text-natural-disaster-sensor-project-microbit.png)
+### [Curso básico](./indice_basico.md)
 
-### Juegos
+Curso sencillo y básico que arranca desde 0 y orientado a profesores de asignaturas no tecnológicas en las que micro:bit y la robótica se usan de un modo transversal y como un recurso más
 
-#### Pulso
-
-![Pulso](https://pbs.twimg.com/media/C1U9mpNW8AEXviy.jpg)
+### [Curso avanzado](./Indice_avanzado.md)
 
 
-#### Operacion
+Curso Avanzado de uso de microbit, orientado a usuarios con conocimientos básicos de programación y robótica. 
 
+Está pensado para aportar conocimientos a asignaturas más tecnológicas
 
-![Operacion](https://pbs.twimg.com/media/C1U9mpNW8AEXviy.jpg)
-
-### Domotica
-
-#### Riego
-
-![Riego](http://d1s30lqb5dw36k.cloudfront.net/images/detailed/14/02687-01.jpg?t=1534824340)
-
-### Robotica
-
-![robotica](https://drbadgr.files.wordpress.com/2017/04/img_4976.jpg?w=768)
+## [Recursos](./Recursos.md)
